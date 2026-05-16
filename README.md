@@ -10,6 +10,10 @@ Automated post-installation configuration scripts for fresh VirtualBox Linux ima
 | `setup-arch.sh` | Arch Linux | pacman |
 | `setup-fedora.sh` | Fedora | dnf |
 
+First clone the repo:
+'''bash
+gitclone 
+
 ## 🚀 Quick Start
 
 ### Step 1: Copy Script Into Your VM
