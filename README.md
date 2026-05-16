@@ -20,7 +20,7 @@ Choose one of the following methods:
 - Transfer the script to your VM using Shared Folders
 
 **Option B: Download Directly**
-Open the VM and in the terminal of the opened VM clone the repo
+- Open the VM and in the terminal of the opened VM clone the repo
 ```bash
 gitclone https://github.com/Slayknoxx/setup-files-for-arch--linux-fedora-and-debian-for-virtual-box.git
 ```
