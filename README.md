@@ -121,10 +121,6 @@ To modify any script:
 2. Update configurations (timezone, locale, package selections, etc.)
 3. Save and run with `bash script-name.sh`
 
-## 📖 License
-
-[Specify your license here - e.g., MIT, GPL-3.0, etc.]
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to:
