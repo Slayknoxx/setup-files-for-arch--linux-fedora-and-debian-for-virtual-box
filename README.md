@@ -10,11 +10,6 @@ Automated post-installation configuration scripts for fresh VirtualBox Linux ima
 | `setup-arch.sh` | Arch Linux | pacman |
 | `setup-fedora.sh` | Fedora | dnf |
 
-First clone the repo:
-
-```bash
-gitclone https://github.com/Slayknoxx/setup-files-for-arch--linux-fedora-and-debian-for-virtual-box.git
-```
 ## 🚀 Quick Start
 
 ### Step 1: Copy Script Into Your VM
@@ -25,9 +20,9 @@ Choose one of the following methods:
 - Transfer the script to your VM using Shared Folders
 
 **Option B: Download Directly**
+Open the VM and in the terminal of the opened VM clone the repo
 ```bash
-# Example for Debian
-curl -O https://your-location/setup-debian.sh
+gitclone https://github.com/Slayknoxx/setup-files-for-arch--linux-fedora-and-debian-for-virtual-box.git
 ```
 
 **Option C: Manual Copy-Paste**
