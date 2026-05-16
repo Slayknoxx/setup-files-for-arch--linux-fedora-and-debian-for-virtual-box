@@ -11,9 +11,10 @@ Automated post-installation configuration scripts for fresh VirtualBox Linux ima
 | `setup-fedora.sh` | Fedora | dnf |
 
 First clone the repo:
-'''bash
-gitclone 
 
+```bash
+gitclone https://github.com/Slayknoxx/setup-files-for-arch--linux-fedora-and-debian-for-virtual-box.git
+```
 ## 🚀 Quick Start
 
 ### Step 1: Copy Script Into Your VM
